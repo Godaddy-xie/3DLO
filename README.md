@@ -1,10 +1,10 @@
 # UM3D_TUM (Master-thesis)
 This is a implementation of Master-thesis "Monocular 3D Object Detection by Key-points", For more details please see my thesis.
 ![image](003822front.png)
-## Introduction:
+## Introduction
 This detector is a real-time monocular detector for autonomous drving. The runing time on a single NVIDA TITAN XP GPU is about 0.035s.
 Additionly, we use uncertainty estimation and feature selection module to improve the final precision on KITTI benchmark. 
-## Main results:
+## Main results
 The performance on KITTI 3D detection (3D/BEV) is as follows:
 
 |             |     Easy      |    Moderate    |     Hard     |
