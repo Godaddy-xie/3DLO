@@ -112,9 +112,9 @@ you can use the source_root/src_uncertainty/tools/convert_kitti_to_coco.py to sp
    . experiments/ddd_uncertain_dist.sh
    ~~~
    if you just want test, you can comment the train code in dd_uncertain_dist.sh
-## Pretrained model:
+## Pretrained model
   The pretrained weights can be downloaded [here](https://drive.google.com/file/d/1KPOecVhu_EsLqxFs4hDYSrrQZE3Q5pQe/view?usp=sharing).
-## License:
+## License
 UM3D_TUM itself is released under the MIT License (refer to the LICENSE file for details). 
 Portions of the code are borrowed from [CenterNet](https://github.com/xingyizhou/CenterNet/), [DCNv2](https://github.com/CharlesShang/DCNv2)(deformable convolutions)
 Please refer to the original License of these projects.
