@@ -18,7 +18,7 @@ The performance on KITTI 3D detection (3D/BEV) is as follows:
 *   Pytorch 0.4 (recommand) or 1.4
 *   CUDA 9.0
 ## File-structure
-This code retains implementations of some other methods (IOU loss, muti-keypoints, also including ablation, but not completely.) during my master-thesis process. 
+This code retains implementations of some other methods (IOU loss, muti-keypoints, also including ablation, but not completely.) during my master-thesis. 
 The source code of the final thesis version is src_uncertain_dist
 ```
       source_root
