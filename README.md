@@ -1,5 +1,5 @@
-# UM3D_TUM (Master-thesis)
-This is a implementation of Master-thesis "Monocular 3D Object Detection by Key-points", For more details please see my thesis.
+# UM3D_TUM
+This is a implementation of the thesis "Monocular 3D Object Detection by Key-points", For more details please see my thesis.
 ![image](003822front.png)
 ## Introduction
 This detector is a real-time monocular detector for autonomous drving. The runing time on a single NVIDA TITAN XP GPU is about 0.035s.
